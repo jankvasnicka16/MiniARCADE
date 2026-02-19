@@ -1,0 +1,455 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|c:\\users\\honza\\desktop\\tpproject\\miniarcade\\assets\\scripts\\lineplayerswipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lineplayerswipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\assets\\scripts\\minigamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minigamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\LinePlayerSlideSmooth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\LinePlayerSlideSmooth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\assets\\scripts\\buttonsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\assets\\scripts\\playermovex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\assets\\scripts\\destroyzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\assets\\scripts\\dashscroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dashscroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\assets\\scripts\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\assets\\scripts\\trafficspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trafficspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\assets\\scripts\\trafficcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trafficcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\assets\\scripts\\moveleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\assets\\scripts\\fallingspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fallingspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\assets\\scripts\\fallingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fallingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\assets\\scripts\\destroyontrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyontrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\assets\\scripts\\pipespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pipespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\assets\\scripts\\camerabounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerabounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\assets\\textmesh pro\\shaders\\tmp_sdf.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\flappybirdy\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\flappybirdy\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Editor\\TMP_EditorUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Editor\\TMP_EditorUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\assets\\scripts\\scorezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scorezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\assets\\scripts\\flappyplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flappyplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\assets\\scripts\\scoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\assets\\scripts\\safeareaui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\safeareaui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\assets\\scripts\\introloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3AFC7-F1F6-805C-5289-03A5316FAF84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\introloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\PlayerMoveX_Touch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerMoveX_Touch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinePlayerSlideSmooth.cs",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\LinePlayerSlideSmooth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LinePlayerSlideSmooth.cs",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\LinePlayerSlideSmooth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LinePlayerSlideSmooth.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T18:21:45.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinePlayerSwipe.cs",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\LinePlayerSwipe.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LinePlayerSwipe.cs",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\LinePlayerSwipe.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LinePlayerSwipe.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAqwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T17:09:49.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DestroyZone.cs",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\DestroyZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyZone.cs",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\DestroyZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:32:30.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashScroller.cs",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\DashScroller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DashScroller.cs",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\DashScroller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DashScroller.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T17:45:54.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerMoveX.cs",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\PlayerMoveX.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMoveX.cs",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\PlayerMoveX.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMoveX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:52:53.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainMenuController.cs",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\MainMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuController.cs",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\MainMenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T18:34:45.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MoveLeft.cs",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\MoveLeft.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveLeft.cs",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\MoveLeft.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveLeft.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:06:01.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MiniGameManager.cs",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\MiniGameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniGameManager.cs",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\MiniGameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniGameManager.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwFcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T10:22:21.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ButtonSound.cs",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\ButtonSound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonSound.cs",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\ButtonSound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T11:57:59.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TrafficSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\TrafficSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TrafficSpawner.cs",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\TrafficSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TrafficSpawner.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T13:38:23.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SoundManager.cs",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SoundManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIBJwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T22:00:51.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TrafficCar.cs",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\TrafficCar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TrafficCar.cs",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\TrafficCar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TrafficCar.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T17:12:31.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FallingItem.cs",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\FallingItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FallingItem.cs",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\FallingItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FallingItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:53:24.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FallingSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\FallingSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FallingSpawner.cs",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\FallingSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FallingSpawner.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:53:57.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PlayerMoveX_Touch.cs",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\PlayerMoveX_Touch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMoveX_Touch.cs",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\PlayerMoveX_Touch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMoveX_Touch.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:04:09.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CameraBounds.cs",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\CameraBounds.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraBounds.cs",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\CameraBounds.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraBounds.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:31:21.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TMP_SDF.shader",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-01-20T20:46:02.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "license.txt",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\flappybirdy\\license.txt",
+              "RelativeDocumentMoniker": "Assets\\flappybirdy\\license.txt",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\flappybirdy\\license.txt",
+              "RelativeToolTip": "Assets\\flappybirdy\\license.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-20T20:43:24.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TMP_EditorUtility.cs",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Editor\\TMP_EditorUtility.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Editor\\TMP_EditorUtility.cs",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Editor\\TMP_EditorUtility.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Editor\\TMP_EditorUtility.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAjwHwAAABJAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T20:04:15.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PipeSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\PipeSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PipeSpawner.cs",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\PipeSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PipeSpawner.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T17:48:01.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DestroyOnTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\DestroyOnTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyOnTrigger.cs",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\DestroyOnTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyOnTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:19:36.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ScoreZone.cs",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\ScoreZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreZone.cs",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\ScoreZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreZone.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:06:32.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FlappyPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\FlappyPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FlappyPlayer.cs",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\FlappyPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FlappyPlayer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T11:36:05.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ScoreService.cs",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\ScoreService.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreService.cs",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\ScoreService.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T17:50:27.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IntroLoader.cs",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\IntroLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IntroLoader.cs",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\IntroLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IntroLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T17:49:54.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SafeAreaUI.cs",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\SafeAreaUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SafeAreaUI.cs",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\SafeAreaUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SafeAreaUI.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T17:49:29.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneLoader.cs",
+              "ToolTip": "C:\\Users\\honza\\Desktop\\TPProject\\MiniArcade\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T17:48:47.085Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
